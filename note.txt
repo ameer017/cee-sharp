@@ -1,0 +1,4 @@
+Start DB via docker: docker compose -f CeeSharp/docker-compose.yml up -d
+To run migration: dotnet ef migrations add FirstMigration --project CeeSharp
+To remove migration: ef migrations remove
+To apply migration to the db : dotnet ef database update --project CeeSharp
