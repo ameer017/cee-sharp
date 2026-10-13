@@ -1,0 +1,13 @@
+plan.md
+note.txt
+
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Editors and OS
+.idea/
+.DS_Store

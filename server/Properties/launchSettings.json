@@ -16,7 +16,11 @@
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5087",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Librarian__Email": "librarian@libranet.local",
+        "Librarian__Password": "Librarian1!",
+        "Librarian__FirstName": "Ada",
+        "Librarian__LastName": "Lovelace"
       }
     },
     "https": {
@@ -26,7 +30,11 @@
       "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7007;http://localhost:5087",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Librarian__Email": "librarian@libranet.local",
+        "Librarian__Password": "Librarian1!",
+        "Librarian__FirstName": "Ada",
+        "Librarian__LastName": "Lovelace"
       }
     },
     "IIS Express": {
@@ -34,7 +42,11 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Librarian__Email": "librarian@libranet.local",
+        "Librarian__Password": "Librarian1!",
+        "Librarian__FirstName": "Ada",
+        "Librarian__LastName": "Lovelace"
       }
     }
   }

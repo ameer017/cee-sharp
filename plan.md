@@ -87,7 +87,7 @@ No UI kit. Phase 1 screens are plain form elements.
 ## Repo layout
 
 ```
-cee-sharp/
+libranet/
   docker-compose.yml    Postgres. Leave this as the local database.
   plan.md
   server/               ASP.NET Core Web API
